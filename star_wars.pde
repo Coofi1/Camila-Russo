@@ -147,6 +147,8 @@ blanco = color(245, 245, 245);
   
 }
 
+
+
 void draw(){
   
   //fondo
@@ -187,11 +189,8 @@ void draw(){
   text(wars, width/2, height/2 + tamTexto); 
   
   //creditos
-  textSize(tamTexto2); 
-
-  //textAlign (CENTER, CENTER); 
+  textSize(tamTexto2);  
   textFont (fuente2); 
-  
   fill(amarillo);
 
   text(ep1, width/2, 740 - tamTexto2);
@@ -223,6 +222,8 @@ void draw(){
   text(costume, width/2, 1240 - tamTexto2); 
 
   text(mkp, width/2, 1280 - tamTexto2); 
+
+
 
   //personajes
 
@@ -261,6 +262,7 @@ void draw(){
   text(chMaul, width/2, 2020 - tamTexto2);
 
   text(chMace, width/2, 2060 - tamTexto2);
+  
   
   
   //4) ACTUALIZACIÓN
