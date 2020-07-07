@@ -3,4 +3,4 @@ La Aventura gráfica se trata sobre una cita entre dos personajes. Comienza con 
 
 Arte: "Stardew Valley" Game, Concernedape 
 
-![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
+![Inicio - Aventura Gráfica ](https://i.imgur.com/NNyc9QM.png)
