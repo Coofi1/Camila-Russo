@@ -1,3 +1,3 @@
 # Explicación de la historia
-La Aventura gráfica se va a tratar sobre una cita entre dos personajes. Comienza con distintas pantallas desde la invitación y el viaje, hasta la llegada del lugar. Luego empiezan con preguntas y respuestas y cada una, tendrá una respuesta diferente. Llegando al final, se podrá elegir entre confesar el amor de uno de los personajes al otro, o no confesar. Cada respuesta tiene un final/reacción de los personajes distinta. La última pantalla sería el fondo del paisaje, donde aparecerían los créditos. 
-Cada rectangulo sería un estadio/pantalla. Pensaba en utilizar algún juego 2D pixel art para los fondos y personajes. 
+La Aventura gráfica se trata sobre una cita entre dos personajes. Comienza con distintas pantallas desde la invitación y el viaje, hasta la llegada del lugar. Sigue una confesión de amor de unos de los protagonistas. Llegando al final, se podrá elegir la respuesta a este evento. Cada respuesta tiene un final/reacción de los personajes distinta. Una vez terminado el recorrido, se podrá elegir entre volver a empezar o acceder a la pantalla de créditos. 
+
