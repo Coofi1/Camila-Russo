@@ -214,7 +214,7 @@ void mousePressed(){
 
 if ( estado.equals("ops") ){
   
- if( mouseX > 25 && mouseX < 430 && mouseY > 30 && mouseY < 485 ){ 
+ if( mouseX > 25 && mouseX < 430 && mouseY > 450 && mouseY < 485 ){ 
   estado = "delado";
     }
   
