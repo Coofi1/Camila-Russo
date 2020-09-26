@@ -54,21 +54,7 @@ class Olaf{
     
     colorMode(HSB, 100);
     c = color( random(100), 50, 100 ); 
-    
-    
-    
-    
-    
    
-    
-    
-    
-    
-    
-    
-    
-    
-    
   } 
   
 }
