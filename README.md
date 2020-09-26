@@ -2,7 +2,7 @@
 Teclas Izquierda/Derecha: Cambia el color del cielo/fondo
 
 
-Mouse: Cambia el color de la nariz
+Click Mouse: Cambia el color de la nariz
 
 
 
